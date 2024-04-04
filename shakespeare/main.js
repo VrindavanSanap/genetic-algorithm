@@ -28,7 +28,7 @@ function random_elm(array) {
   return array[randomIndex];
 }
 var counter = 10;
-while (counter < 1000000) {
+while (counter < 10000) {
 
   counter++;
   console.clear()
